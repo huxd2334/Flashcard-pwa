@@ -54,8 +54,8 @@ Vite in ra Local và Network URL (LAN), có thể mở trên điện thoại cù
   <img src="src/screenshots/review2.jpg" alt="Review" width="260">
   <img src="src/screenshots/quiz1.jpg" alt="Quiz" width="260">
   <img src="src/screenshots/quiz2.jpg" alt="Quiz" width="260">
-  <img src="src/screenshots/img.jpg" alt="Install" width="260">
-  <img src="docs/screenshots/img_1.png" alt="Desktop" width="260">
+  <img src="src/screenshots/img.png" alt="Install" width="600">
+  <img src="src/screenshots/img_1.png" alt="Desktop" width="600">
 </p>
 
 
