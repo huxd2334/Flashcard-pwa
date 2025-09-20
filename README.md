@@ -1,6 +1,7 @@
 ## Phát triển ứng dụng di động đa nền tảng 2526 (2)
 - Sinh viên: Lê Cẩm Bình
 - MSSV: 22IT.EB007
+- Lớp HP: Phát triển ứng dụng di động đa nền tảng (2)
 - Đề tài 6
 
 # Flashcards PWA (React + Vite)
