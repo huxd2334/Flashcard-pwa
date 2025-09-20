@@ -5,12 +5,12 @@
 - Đề tài 6
 
 # Flashcards PWA (React + Vite)
-Ứng dụng học từ vựng qua **thẻ ghi nhớ** (flashcards) với **Review (Spaced Repetition)** và **Quiz trắc nghiệm**. Hỗ trợ **PWA**: cài như app, chạy **offline**, tự **cập nhật**.
+Ứng dụng học từ vựng qua **thẻ ghi nhớ** (flashcards) với **Review** và **Quiz trắc nghiệm**. Hỗ trợ **PWA**: cài như app, chạy **offline**, tự **cập nhật**.
 
 ## Tính năng
 - **Decks & Cards**: tạo/sửa/xoá deck; thẻ gồm *front/back*, ví dụ, tags.
 - **Review (SRS)**: Thuật toán giản lược kiểu SM-2/Leitner (file `src/logic/srs.ts`).
-- **Quiz**: 4 lựa chọn, chấm **ngay lập tức**; kết quả cuối gồm điểm & thời gian.
+- **Quiz**: 4 lựa chọn, chấm ngay lập tức; kết quả cuối gồm điểm & thời gian.
 - **Offline-first**: Cache asset + dữ liệu cục bộ (IndexedDB qua `localforage`).
 - **Installable**: Manifest + Service Worker (Workbox) → Add to Home Screen.
 - **Import/Export**: JSON cho decks/cards.
