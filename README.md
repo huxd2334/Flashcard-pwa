@@ -34,7 +34,7 @@ src/
 
 ## PWA chi tiết
 - Manifest: khai báo trong vite.config.ts (icons, theme_color, display…).
-- Icons: đặt tại public/icons/ với các kích thước 48 → 512px (có thể thêm maskable).
+- Icons: đặt tại public/icons/ với các kích thước 48 → 512px.
 - Service Worker: do vite-plugin-pwa sinh; cấu hình runtime caching fonts & same-origin.
 - Auto Update: registerType: 'autoUpdate' + src/app/providers.tsx hiển thị toast “Đã có phiên bản mới” → bấm Cập nhật để reload SW.
 
